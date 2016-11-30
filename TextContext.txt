@@ -1,2 +1,3 @@
-step1 construct txt
-
+step1 construct txts
+step2 add message -master
+ 
